@@ -27,6 +27,7 @@ pip3 install --upgrade git+https://github.com/m-wrzr/populartimes
 
 - Open 'popularity.py' 
 - Add Google API KEY https://developers.google.com/maps/documentation/ios-sdk/get-api-key
+- Ensure a 'data.csv' file in the same directory as 'popularity.py'
 
 - Run In Terminal 
 ```bash 
