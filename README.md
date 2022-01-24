@@ -15,3 +15,12 @@ Data Retreived on 2022-01-24
 - Ordered in Descending Total 
 - Places retreived with search term: "pub"
 
+## How To Run 
+
+```bash 
+python3 -i [PATH TO popularity.py]
+```
+
+```python
+run()
+```
