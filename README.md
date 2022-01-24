@@ -15,6 +15,14 @@ Data Retreived on 2022-01-24
 - Ordered in Descending Total 
 - Places retreived with search term: "pub"
 
+## Prerequisites
+
+- Python3 
+- Populartimes Python Library https://github.com/m-wrzr/populartimes install with:
+```bash 
+pip install --upgrade git+https://github.com/m-wrzr/populartimes
+```
+
 ## How To Run 
 
 - Open 'popularity.py' 
