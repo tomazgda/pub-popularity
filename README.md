@@ -20,7 +20,7 @@ Data Retreived on 2022-01-24
 - Python3 
 - Populartimes Python Library https://github.com/m-wrzr/populartimes install with:
 ```bash 
-pip install --upgrade git+https://github.com/m-wrzr/populartimes
+pip3 install --upgrade git+https://github.com/m-wrzr/populartimes
 ```
 
 ## How To Run 
