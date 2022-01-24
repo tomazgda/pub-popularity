@@ -17,10 +17,14 @@ Data Retreived on 2022-01-24
 
 ## How To Run 
 
+- Open 'popularity.py' 
+- Add Google API KEY https://developers.google.com/maps/documentation/ios-sdk/get-api-key
+
+- Run In Terminal 
 ```bash 
 python3 -i [PATH TO popularity.py]
 ```
-
+- Run in REPL 
 ```python
 run()
 ```
