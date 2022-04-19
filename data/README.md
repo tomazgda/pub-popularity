@@ -9,8 +9,10 @@
 ## "old-run.csv"
 Data Retrieved on 2022-01-24
 - Places retrieved with the search term "pub"
+- Search area was Wimbledom to Stratford
 
 
 ## "wisely-mosely.csv"
 Data Retrieved on 2022-04-1903
 - Places retrieved with the search term "Pubs & Bars"
+- Search area was Wisely to Mosely
