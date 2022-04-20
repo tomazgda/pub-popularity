@@ -1,5 +1,8 @@
 # Information
 
+## Note 
+I'm getting a lot of non-pubs showing up so I'm going to keep altering the search terms to find something decent.
+
 ## Interpreting the tables
 
 - Values under each heading are sum totals of popularity each hour each day. 
@@ -12,10 +15,10 @@ Data Retrieved on 2022-01-24
 - Search area was Wimbledom to Stratford
 
 
-## "wisely-mosely.csv"
+## "wisely-molesey.csv"
 Data Retrieved on 2022-04-19
 - Places retrieved with the search term "Pubs & Bars"
-- Search area was Wisely to **Molesey** (Molesey not mosely)
+- Search area was Wisely to *Molesey*
 
 
 ## "molesey-putney"
