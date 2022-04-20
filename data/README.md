@@ -13,6 +13,18 @@ Data Retrieved on 2022-01-24
 
 
 ## "wisely-mosely.csv"
-Data Retrieved on 2022-04-1903
+Data Retrieved on 2022-04-19
 - Places retrieved with the search term "Pubs & Bars"
-- Search area was Wisely to Mosely
+- Search area was Wisely to **Molesey** (Molesey not mosely)
+
+
+## "molesey-putney"
+Data Retrieved on 2022-04-20
+- Places retrieved with the search term "local pubs"
+- Search area was Molesey to Putney
+
+## "molesey-putney2" 
+Data Retrieved on 2022-04-2022
+- Did not specify radius in the search area which gave a lot more results. All further runs will be done like this.
+- Places retrieved with the search term "local pubs"
+- Search area was Molesey to Putney 

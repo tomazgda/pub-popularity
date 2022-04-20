@@ -19,7 +19,7 @@ print("Second Position =", pos2)
 
 # gets data on bars within given coordiante bounds 
 def data_in_area():
-    return pt.get(key, ["Pubs & Bars"], pos1, pos2, 8, 1000, False)
+    return pt.get(key, ["local pubs"], pos1, pos2, 8, all_places=False)
 
 # Function to sort list in descending order of value of 8th (ninth) term  
 def Sort(sub_li):
